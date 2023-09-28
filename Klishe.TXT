@@ -35,10 +35,13 @@ git checkout //название ветки// - переход на ветку
 git remote set-url origin https://github.com/LeksandrI/Important - //не сработало//
 
 ПОДКЛЮЧЕНИЕ К НУЖНОМУ РЕПОЗИТОРИЮ 
-git remote add origin https://github.com/LeksandrI/Important.git
+git remote add origin https://github.com/LeksandrI/Python.git
 
 git push -u origin master - добавить файлы на удаленный репозиторий
 
 
 СОЗДАНИЕ ВЕТКИ 
 git branch /название/
+
+
+ctrl+c прерывание команды и выход jupyter-notebook
