@@ -44,4 +44,4 @@ git push -u origin master - добавить файлы на удаленный 
 git branch /название/
 
 
-ctrl+c прерывание команды и выход jupyter-notebook
+ctrl+c прерывание команды и выход из jupyter-notebook
